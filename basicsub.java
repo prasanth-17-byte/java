@@ -1,4 +1,4 @@
-public class basic5 {
+public class basicsub {
     public static void main(String[] args){
         int a=4;
         int b=6;
